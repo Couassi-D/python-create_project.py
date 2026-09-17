@@ -1,5 +1,5 @@
-# Name:
-# Date:
+# Name: Couassi Dzogbessi
+# Date: 09/17/2026
 # Course: COMP 163
 # Project 1: Paycheck Calculator
 
