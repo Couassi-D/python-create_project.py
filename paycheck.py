@@ -37,5 +37,3 @@ print(f'Net pay: ${net_pay:.2f}')
 # Chapters 1 and 2 only. Use variables, input(), arithmetic, type conversion,
 # and print(). Do not use if statements, loops, functions, or imports.
 # Your code runs top to bottom, once.
-git add paycheck.py
-git push 
